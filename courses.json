@@ -1,0 +1,97 @@
+{
+    "Torslanda": {
+        "slope": 113,
+        "holes": {
+            "hole_1": {
+                "par": 5,
+                "length": 440,
+                "index": 12
+            },
+            "hole_2": {
+                "par": 4,
+                "length": 370,
+                "index": 4
+            },
+            "hole_3": {
+                "par": 4,
+                "length": 330,
+                "index": 14
+            },
+            "hole_4": {
+                "par": 3,
+                "length": 120,
+                "index": 18
+            },
+            "hole_5": {
+                "par": 4,
+                "length": 270,
+                "index": 2
+            },
+            "hole_6": {
+                "par": 3,
+                "length": 147,
+                "index": 10
+            },
+            "hole_7": {
+                "par": 4,
+                "length": 254,
+                "index": 8
+            },
+            "hole_8": {
+                "par": 4,
+                "length": 320,
+                "index": 16
+            },
+            "hole_9": {
+                "par": 3,
+                "length": 100,
+                "index": 6
+            },
+            "hole_10": {
+                "par": 5,
+                "length": 504,
+                "index": 5
+            },
+            "hole_11": {
+                "par": 3,
+                "length": 133,
+                "index": 7
+            },
+            "hole_12": {
+                "par": 4,
+                "length": 283,
+                "index": 15
+            },
+            "hole_13": {
+                "par": 3,
+                "length": 135,
+                "index": 3
+            },
+            "hole_14": {
+                "par": 4,
+                "length": 397,
+                "index": 11
+            },
+            "hole_15": {
+                "par": 4,
+                "length": 334,
+                "index": 13
+            },
+            "hole_16": {
+                "par": 4,
+                "length": 311,
+                "index": 9
+            },
+            "hole_17": {
+                "par": 5,
+                "length": 450,
+                "index": 17
+            },
+            "hole_18": {
+                "par": 5,
+                "length": 475,
+                "index": 1
+            }
+        }
+    }
+}
